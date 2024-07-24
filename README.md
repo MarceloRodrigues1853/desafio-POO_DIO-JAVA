@@ -1,6 +1,6 @@
 <h1>Desafio: Aprenda na Prática Programação Orientada a Objetos Trilha Java DIO em parceria com Santander</h1>
 
-<p>Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br> <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
+<p>Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>  Fornecido pela <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
 
 <h2>💎 O objetivo principal é colocar em prática umas das principais ferramentas da Orientação a Objetos (OO):<h2/>
 <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO</strong>, através de um projeto JAVA. </p>
